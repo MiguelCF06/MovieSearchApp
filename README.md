@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="./imgs/example1.png" width="490" height="200">
+  <img src="./imgs/example1.png" width="590" height="300">
 
   <h3 align="center">Movie Search App</h3>
 
@@ -20,7 +20,9 @@
   </p>
 </p>
 
-<img src="./imgs/example2.png" width="490" height="200">
+<p align="center">
+  <img src="./imgs/example2.png" width="590" height="300">
+</p>
 
 ## Want to test it?
 Here is the url [MovieSearchApp](https://my-react-movie-search-app.herokuapp.com/)
