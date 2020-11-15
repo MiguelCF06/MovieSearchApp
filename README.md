@@ -12,7 +12,7 @@
   <h3 align="center">Movie Search App</h3>
 
   <p align="center">
-        <em>Developed with React and [The MovieDB API](https://www.themoviedb.org/documentation/api)</em>
+        <em>Developed with React and </em>[The MovieDB API](https://www.themoviedb.org/documentation/api)
     <br /><br />
     <a href="https://github.com/MiguelCF06/MovieSearchApp/issues">Report Bug</a>
     ·
