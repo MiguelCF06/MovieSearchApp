@@ -2,7 +2,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -40,7 +39,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [stars-url]: https://github.com/MiguelCF06/MovieSearchApp/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MiguelCF06/MovieSearchApp?style=flat-square
 [issues-url]: https://github.com/MiguelCF06/MovieSearchApp/issues
-[license-shield]: https://img.shields.io/github/license/MiguelCF06/MovieSearchApp?style=flat-square
-[license-url]: https://github.com/MiguelCF06/MovieSearchApp/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-cipamocha/
