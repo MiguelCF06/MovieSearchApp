@@ -12,7 +12,7 @@
   <h3 align="center">Movie Search App</h3>
 
   <p align="center">
-        <em>Developed with React and {[The MovieDB API](https://www.themoviedb.org/documentation/api)}</em>
+        <em>Developed with React and The MovieDB API</em>
     <br /><br />
     <a href="https://github.com/MiguelCF06/MovieSearchApp/issues">Report Bug</a>
     ·
@@ -29,7 +29,7 @@ Here is the url [MovieSearchApp](https://my-react-movie-search-app.herokuapp.com
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+[MovieDBAPI](https://www.themoviedb.org/documentation/api)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/MiguelCF06/MovieSearchApp?style=flat-square
